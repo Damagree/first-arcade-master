@@ -1,0 +1,678 @@
+{
+    "bodyType": 1,
+    "skinColor": {
+        "r": 1.0,
+        "g": 0.7647058963775635,
+        "b": 0.6392157077789307,
+        "a": 1.0
+    },
+    "tintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "slotData": [
+        {
+            "category": 0,
+            "partName": "Fantasy Set 01 Female",
+            "partPackage": "Fantasy",
+            "color1": {
+                "r": 0.5789600014686585,
+                "g": 0.02988377958536148,
+                "b": 0.02988377958536148,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.905329167842865,
+                "g": 0.7208160758018494,
+                "b": 0.052596911787986758,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.905329167842865,
+                "g": 0.7208160758018494,
+                "b": 0.052596911787986758,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 1,
+            "partName": "Fantasy 09",
+            "partPackage": "Fantasy",
+            "color1": {
+                "r": 0.905329167842865,
+                "g": 0.7208160758018494,
+                "b": 0.052596911787986758,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5566827654838562,
+                "g": 0.03493475168943405,
+                "b": 0.03493475168943405,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.905329167842865,
+                "g": 0.7208160758018494,
+                "b": 0.052596911787986758,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 2,
+            "partName": "00",
+            "partPackage": "Base",
+            "color1": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 3,
+            "partName": "02",
+            "partPackage": "Base",
+            "color1": {
+                "r": 0.3019607961177826,
+                "g": 0.1921568661928177,
+                "b": 0.1921568661928177,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.3019607961177826,
+                "g": 0.1921568661928177,
+                "b": 0.1921568661928177,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.3019607961177826,
+                "g": 0.1921568661928177,
+                "b": 0.1921568661928177,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 4,
+            "partName": "00",
+            "partPackage": "Base",
+            "color1": {
+                "r": 0.0828578844666481,
+                "g": 0.31430041790008547,
+                "b": 0.39537128806114199,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.0828578844666481,
+                "g": 0.31430041790008547,
+                "b": 0.39537128806114199,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.0828578844666481,
+                "g": 0.31430041790008547,
+                "b": 0.39537128806114199,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 5,
+            "partName": "",
+            "partPackage": "",
+            "color1": {
+                "r": 0.3019607961177826,
+                "g": 0.1921568661928177,
+                "b": 0.1921568661928177,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.3019607961177826,
+                "g": 0.1921568661928177,
+                "b": 0.1921568661928177,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.3019607961177826,
+                "g": 0.1921568661928177,
+                "b": 0.1921568661928177,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 6,
+            "partName": "Fantasy Set 01",
+            "partPackage": "Fantasy",
+            "color1": {
+                "r": 0.905329167842865,
+                "g": 0.7208160758018494,
+                "b": 0.052596911787986758,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5455441474914551,
+                "g": 0.009929347783327103,
+                "b": 0.009929347783327103,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 7,
+            "partName": "14",
+            "partPackage": "Base",
+            "color1": {
+                "r": 0.2640949487686157,
+                "g": 0.16306866705417634,
+                "b": 0.12335168570280075,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.2640949487686157,
+                "g": 0.16306866705417634,
+                "b": 0.12335168570280075,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.2640949487686157,
+                "g": 0.16306866705417634,
+                "b": 0.12335168570280075,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 8,
+            "partName": "",
+            "partPackage": "",
+            "color1": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 9,
+            "partName": "08",
+            "partPackage": "Base",
+            "color1": {
+                "r": 1.0,
+                "g": 0.498039186000824,
+                "b": 0.498039186000824,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 1.0,
+                "g": 0.498039186000824,
+                "b": 0.498039186000824,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 1.0,
+                "g": 0.498039186000824,
+                "b": 0.498039186000824,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 10,
+            "partName": "03",
+            "partPackage": "Base",
+            "color1": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 11,
+            "partName": "Fantasy 08 Female",
+            "partPackage": "Fantasy",
+            "color1": {
+                "r": 0.534405529499054,
+                "g": 0.03353673964738846,
+                "b": 0.03353673964738846,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5009896755218506,
+                "g": 0.02585923857986927,
+                "b": 0.02585923857986927,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.905329167842865,
+                "g": 0.7208160758018494,
+                "b": 0.052596911787986758,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 12,
+            "partName": "",
+            "partPackage": "",
+            "color1": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 13,
+            "partName": "",
+            "partPackage": "",
+            "color1": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 14,
+            "partName": "",
+            "partPackage": "",
+            "color1": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 15,
+            "partName": "",
+            "partPackage": "",
+            "color1": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        },
+        {
+            "category": 16,
+            "partName": "",
+            "partPackage": "",
+            "color1": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color2": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            },
+            "color3": {
+                "r": 0.5,
+                "g": 0.5,
+                "b": 0.5,
+                "a": 1.0
+            }
+        }
+    ],
+    "emoteData": [
+        {
+            "emotionType": 0,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 1,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 2,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 3,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 4,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 5,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 6,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 7,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 8,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 9,
+            "emotionName": "",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 10,
+            "emotionName": "Blink",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "05",
+            "eyesPackage": "Base",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "",
+            "mouthPackage": "",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 11,
+            "emotionName": "Attack",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "06",
+            "mouthPackage": "Base",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 12,
+            "emotionName": "Hurt",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "04",
+            "eyesPackage": "Base",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "06",
+            "mouthPackage": "Base",
+            "earPartName": "",
+            "earPackage": ""
+        },
+        {
+            "emotionType": 13,
+            "emotionName": "Talk",
+            "eyebrowPartName": "",
+            "eyebrowPackage": "",
+            "eyesPartName": "",
+            "eyesPackage": "",
+            "nosePartName": "",
+            "nosePackage": "",
+            "mouthPartName": "07",
+            "mouthPackage": "Base",
+            "earPartName": "",
+            "earPackage": ""
+        }
+    ],
+    "bodySegmentData": [
+        {
+            "segmentType": 0,
+            "scale": {
+                "x": 0.5244503617286682,
+                "y": 0.5244503617286682
+            }
+        },
+        {
+            "segmentType": 1,
+            "scale": {
+                "x": 0.5733517408370972,
+                "y": 0.5733517408370972
+            }
+        },
+        {
+            "segmentType": 2,
+            "scale": {
+                "x": 0.6046973466873169,
+                "y": 0.5
+            }
+        },
+        {
+            "segmentType": 3,
+            "scale": {
+                "x": 0.5338569283485413,
+                "y": 0.5244503617286682
+            }
+        },
+        {
+            "segmentType": 4,
+            "scale": {
+                "x": 0.5257065296173096,
+                "y": 0.5420070886611939
+            }
+        },
+        {
+            "segmentType": 5,
+            "scale": {
+                "x": 0.5094062685966492,
+                "y": 0.5
+            }
+        },
+        {
+            "segmentType": 6,
+            "scale": {
+                "x": 0.5150450468063355,
+                "y": 0.5150450468063355
+            }
+        },
+        {
+            "segmentType": 7,
+            "scale": {
+                "x": 0.5501571893692017,
+                "y": 0.5489010810852051
+            }
+        },
+        {
+            "segmentType": 8,
+            "scale": {
+                "x": 0.517556369304657,
+                "y": 0.5570514798164368
+            }
+        },
+        {
+            "segmentType": 9,
+            "scale": {
+                "x": 0.58024662733078,
+                "y": 0.58024662733078
+            }
+        }
+    ]
+}

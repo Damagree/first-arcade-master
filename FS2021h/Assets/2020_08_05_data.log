@@ -1,0 +1,27 @@
+2020/08/05 03:05:18 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/05 03:05:40 : 12345;admin@admin.com;admin;admin;10000;0;0;0;0001;a@a.com;xxx;xxx;0;120;0;0;0END
+2020/08/05 03:06:05 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/05 03:06:05 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>

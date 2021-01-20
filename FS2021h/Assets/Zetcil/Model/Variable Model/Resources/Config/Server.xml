@@ -1,0 +1,5 @@
+<ServerSettings>
+	<LoginURL>URL</LoginURL>
+	<RegisterURL>URL</RegisterURL>
+	<HighScoreURL>http://localhost/atom/index.php/gameuser/highscore</HighScoreURL>
+</ServerSettings>

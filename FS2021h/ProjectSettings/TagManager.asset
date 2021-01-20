@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Graphic
+  - Audio
+  - UIButton
+  - UIText
+  - UIHeader
+  - LayoutManager
+  - UIInput
+  - UIPanel
+  - UICharSelection
+  - UDialog
+  - UIBanner
+  - Bad
+  - Good
+  - BGM
+  - LetterA
+  - LetterB
+  - LetterC
+  - LetterD
+  - LetterE
+  - LetterF
+  - LetterG
+  - LetterH
+  - LetterI
+  - LetterJ
+  - LetterK
+  - LetterL
+  - LetterM
+  - LetterN
+  - LetterO
+  - LetterP
+  - LetterQ
+  - LetterR
+  - LetterS
+  - LetterT
+  - LetterU
+  - LetterV
+  - LetterW
+  - LetterX
+  - LetterY
+  - LetterZ
+  - FrontCard
+  - BackCard
+  - Inside Barrel
+  - Dynamite
+  - PlayerAttack
+  - EnemyBody
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

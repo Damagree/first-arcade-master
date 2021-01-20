@@ -1,0 +1,3067 @@
+2020/07/31 08:34:38 : LOGIN_SUCCESS|12345|admin@admin.com|admin|admin|10000|0|0|0
+2020/07/31 08:42:52 : CREATE_USER_SUCCESS
+2020/07/31 08:43:07 : LOGIN_FAILED
+2020/07/31 08:44:33 : CREATE_USER_SUCCESS
+2020/07/31 08:54:53 : CREATE_USER_SUCCESS
+2020/07/31 08:55:01 : LOGIN_SUCCESS|111|111|111|111|0|100|0|0
+2020/07/31 08:57:50 : USER_ALREADY_EXISTS
+2020/07/31 08:57:56 : USER_ALREADY_EXISTS
+2020/07/31 08:58:07 : CREATE_USER_SUCCESS
+2020/07/31 08:58:20 : LOGIN_SUCCESS|999|aku@aku.com|pass|user|0|100|0|0
+2020/07/31 09:47:04 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:54:36 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:05 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:06 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:07 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:08 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:09 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:10 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:11 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:13 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:13 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:14 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:15 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:16 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:17 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:18 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:19 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:55:20 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:56:03 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 09:59:29 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:12:17 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:13:26 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:14:11 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:14:38 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:15:06 : 111;111;111;111;99999;100;0;0|END
+2020/07/31 10:15:35 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:16:13 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:48:54 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:49:12 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:53:42 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:54:06 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 10:55:21 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 11:01:52 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 11:02:14 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 11:03:40 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 11:03:57 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 11:04:16 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 11:04:32 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:08:36 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:08:56 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:10:13 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:10:43 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:11:04 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:13:05 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:13:11 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:13:52 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:14:43 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:20:15 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:20:56 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:21:48 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:24:35 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:25:54 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:29:23 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:29:57 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 01:30:03 : 111;111;111;111;99999;100;0;0|12345;admin@admin.com;admin;admin;10000;0;0;0|999;aku@aku.com;pass;user;0;100;0;0|END
+2020/07/31 04:29:08 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:10 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:13 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:13 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:15 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:15 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:16 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:16 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:16 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:16 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:23 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:23 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:24 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:29:43 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 119</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 119<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3|
+2020/07/31 04:31:11 : LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3
+2020/07/31 04:43:24 : LOGIN_SUCCESS|111|111|111|111|15000|100|0|0|3
+2020/07/31 04:45:33 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 04:47:33 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:44 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:36:45 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:45 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:46 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:47 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:48 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:49 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:50 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:51 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:53 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:53 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:55 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:56 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:57 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:58 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:36:59 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:00 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:01 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:02 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:03 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:05 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:05 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:07 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:08 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:08 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:09 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:10 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:11 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:12 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:13 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:14 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:15 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:17 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:18 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:19 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:20 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:21 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:22 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:23 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:26 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:28 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:30 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:33 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:34 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:35 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:36 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:37 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:38 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:39 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:41 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:42 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:44 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:44 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:45 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:46 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:37:48 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:24 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:39:25 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:26 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:27 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:28 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:29 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:30 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:31 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:32 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:33 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:34 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:35 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:37 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:37 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:38 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:40 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:40 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:41 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:42 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:43 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:44 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:45 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:46 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:47 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:48 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:49 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:50 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:51 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:52 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:54 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:55 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:39:56 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:41 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:40:42 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:43 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:44 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:45 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:46 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:47 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:48 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:49 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:50 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:40:51 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:24 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:48:25 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:26 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:27 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:28 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:29 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:31 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:32 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:33 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:34 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:35 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:36 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:37 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:38 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:39 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:40 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:41 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:42 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:43 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:44 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:55 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:55 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:56 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:57 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:48:58 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:01 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:01 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:02 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:03 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:04 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:05 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:06 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:07 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:08 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:09 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:10 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:11 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:49:44 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:49:49 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:50:33 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:50:40 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:50:48 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:51:30 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:52:12 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:52:13 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:14 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:15 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:16 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:17 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:18 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:19 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:20 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:21 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:22 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:23 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:24 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:27 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:28 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:29 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:30 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:31 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:52:56 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:52:57 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:53:17 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:53:18 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:54:01 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:54:03 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:54:38 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:54:39 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:56:14 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:56:15 : LOGIN_SUCCESS|222|111|111|111|15000|100|0|0|3
+2020/07/31 05:56:58 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 1 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 2 for Gameuser::login()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 87<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param1</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: param2</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 107</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 107<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/07/31 05:56:59 : LOGIN_SUCCESS|222|111|111|111|10|20|30|40|50

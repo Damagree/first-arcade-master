@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3994610025775972237
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8412162686431262769}
+  - component: {fileID: 542586632132860800}
+  m_Layer: 0
+  m_Name: Anima.Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8412162686431262769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3994610025775972237}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.4091086, y: 0.4253626, z: 2.4453735}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &542586632132860800
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3994610025775972237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6113ef8dfebd94f43835fc75057df7d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isEnabled: 0
+  usingIdle: 0
+  IdleEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  usingWalk: 0
+  WalkEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  usingRun: 0
+  RunEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  usingJump: 0
+  JumpEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  usingFall: 0
+  FallEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  usingGetHit: 0
+  GetHitEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  usingDeath: 0
+  DeathEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  usingCustomAnima: 0
+  CustomAnimaEvent: []

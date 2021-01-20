@@ -1,0 +1,7622 @@
+2020/08/02 11:19:12 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 164</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 164<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 166</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 166<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 168</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 168<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>END
+2020/08/02 11:20:20 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/02 11:20:22 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:23 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:25 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:26 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:27 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:28 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:29 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:30 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:31 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:32 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:33 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:34 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:39 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:40 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:41 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:42 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:43 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:44 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:46 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:47 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:49 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:50 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:51 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:52 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:53 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:54 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:56 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:57 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:58 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:59 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:20:59 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:00 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:01 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:02 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:03 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:04 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:05 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:06 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:07 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:08 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:09 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:10 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:11 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:12 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:13 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:14 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:15 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:17 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:18 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:19 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:20 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:21:21 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:22:42 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:41 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:42 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:43 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:44 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:45 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:45 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:46 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:47 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:48 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:26:49 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:27:30 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO)</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 95</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 95<br />
+			Function: mysqli_connect			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_query() expects parameter 1 to be mysqli, boolean given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 108</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 108<br />
+			Function: mysqli_query			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 109</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 109<br />
+			Function: mysqli_fetch_row			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>LOGIN_FAILED
+2020/08/02 11:30:05 : LOGIN_SUCCESS|12345|admin@admin.com|admin|admin|10000|0|0|0|0
+2020/08/02 11:30:21 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined offset: 9</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 169</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php<br />
+			Line: 169<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>12345;admin@admin.com;admin;admin;10000;0;0;0;0;|END
+2020/08/02 11:33:46 : LOGIN_SUCCESS|12345|admin@admin.com|admin|admin|10000|0|0|0|0
+2020/08/02 11:33:48 : 12345;admin@admin.com;admin;admin;10000;0;0;0;0END
+2020/08/02 11:34:54 : LOGIN_SUCCESS|12345|admin@admin.com|admin|admin|10000|0|0|0|0
+2020/08/02 11:34:56 : 12345;admin@admin.com;admin;admin;10000;0;0;0;0END
+2020/08/02 11:35:26 : CREATE_USER_SUCCESS
+2020/08/02 11:35:41 : LOGIN_FAILED
+2020/08/02 11:35:54 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/02 11:36:09 : 12345;admin@admin.com;admin;admin;10000;0;0;0;0001;a@a.com;xxx;xxx;0;120;0;0;0END
+2020/08/02 11:36:35 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/02 11:36:37 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/02 11:37:40 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/02 11:37:41 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/02 11:42:27 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/02 11:42:28 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/02 11:42:49 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/02 11:43:00 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0

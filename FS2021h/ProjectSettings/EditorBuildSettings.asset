@@ -1,0 +1,395 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC01.SplashScreen.Publisher.unity
+    guid: 5bbddb13d2eb8924498fdfbac3e90624
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC02.SplashScreen.Developer.unity
+    guid: d541bafad96de1e489dc317e71a40365
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/GM/GM00.GamePlay.PC.unity
+    guid: 4f403f2fa3b4c204c9404e13ac767dd0
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/GM/GM01.GamePlay.Memory.unity
+    guid: 385770578bc698e4fb3ab2d56ed9a68f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/GM/GM02.GamePlay.Platformer.unity
+    guid: 7e1a71fc41a9a51488bef82693169ef4
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/GM/GM03.GamePlay.Quiz.unity
+    guid: 93b70acecad6c1040886ed215e897fa6
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/GM/GM04.GamePlay.PointToClick.unity
+    guid: 6bc63cb1e62c62249b28fec200984f62
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/GM/GM05.GamePlay.FindObject.unity
+    guid: 1d2ff89488a6ec14183b8466980222f5
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/GM/GM06.GamePlay.WipeWord.unity
+    guid: 11ed05118633acb4a8c266ad74d1d83c
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA.LevelSelection.unity
+    guid: d6b787ea2fb9776478c6db1d3bd137c1
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB.LevelSelection.unity
+    guid: 1a6b25c2a2b3f0c43ab3ed45c7e7028e
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC.LevelSelection.unity
+    guid: 93a7f89b33acd184d98ca6a91fd3c7bc
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD.LevelSelection.unity
+    guid: 35cc79dc47519614292debd97ff8963f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE.LevelSelection.unity
+    guid: bc19cb89508dd924eabe354749a25ba2
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF.LevelSelection.unity
+    guid: 121139efc4eaa1545b120df7c122ace3
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG.LevelSelection.unity
+    guid: 28cfd8bc2a470b845a1f72729dba242f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH.LevelSelection.unity
+    guid: 67fc1d42d0c42a14084631f4b14a5a31
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI.LevelSelection.unity
+    guid: 7c37fd77dbb93f346a0f0074123100c9
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ.LevelSelection.unity
+    guid: 2ce16b6d060c13741a6adebe072fc874
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play01.unity
+    guid: 32a7a7ac257974943a5e5d54620b0b38
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play02.unity
+    guid: c933f6232d2b11e4b958c1af898b2427
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play03.unity
+    guid: 04960292288cce24498a4236e0422c25
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play04.unity
+    guid: 21abfe3d5216b354184db62fd4743d6f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play05.unity
+    guid: 0d8e9662c3e9bbb4ca0c419526ae40b2
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play06.unity
+    guid: 5ccc698e648a0b946a3f9ffef4efe381
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play07.unity
+    guid: ea7fdd7c764d14f4998884bf8d13c0d9
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play08.unity
+    guid: 92c4b7c9583092a4b9e494105eb17c17
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play09.unity
+    guid: a1f43df7ffd9a8f4a9e3353e4acb9809
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play10.unity
+    guid: 65d31f3cda1b8f746858fb62eeddc67a
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVA/LVA.Play11.unity
+    guid: f4048b161c033ca4baa233ff1e043a56
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play01.unity
+    guid: 1a031fed74e21e843863d8021d7ca882
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play02.unity
+    guid: 57f7ca175b88d9f4aa92b966767fa11c
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play03.unity
+    guid: 99774ecf0570b8f44a02295c0b0f5a0f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play04.unity
+    guid: 1de0d577d8b6b654086505102cab0a12
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play05.unity
+    guid: 9dcb5fc8fd0bd5f48aad5f780d130270
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play06.unity
+    guid: ea2329e4e68437044884236673e4cdb3
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play07.unity
+    guid: de57966cb9f2b824192accbab6edbc07
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play08.unity
+    guid: 63115adbe0773af4186bb838559b0739
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play09.unity
+    guid: 384d902768605144186a52ebf92c2710
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVB/LVB.Play10.unity
+    guid: fb6520221fc6ec7498d5b54d0e64c8b9
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play01.unity
+    guid: a82a2d35cc8e12544a43cd0c4bb43ea1
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play02.unity
+    guid: 8abe4651f15545445b8f49945d792fe3
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play03.unity
+    guid: 261c74a2c3cc2bd4fb87061bb38391ff
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play04.unity
+    guid: 70edefd83abcf084f8ebf9dffe9460c2
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play05.unity
+    guid: e89238860e886274bb728749ef5042d6
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play06.unity
+    guid: 5f1a4c396a0f93f45a1c346c5a57f4f3
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play07.unity
+    guid: 006dee7256a060b43a4a47289e1a8d07
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play08.unity
+    guid: a49434b68268ee64998407cd13eaf04f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play09.unity
+    guid: fac1fe00c0557164995654eebd77d10b
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVC/LVC.Play10.unity
+    guid: 79af3f87f463d89438ec981692ac2203
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play01.unity
+    guid: 1bb754de7630c1e408ec43cc6bb07272
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play02.unity
+    guid: 6f6d33c216bf8bf4b9e45117e06764c3
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play03.unity
+    guid: 3eb9c804b0d384c4e87eb1bbb6f6e818
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play04.unity
+    guid: 33819e8c280c6044fbc3e37397d96a97
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play05.unity
+    guid: 6fe6c253bd52253438915ebc24c326bd
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play06.unity
+    guid: 648f34de6e5c5034484e3ae6c0d37827
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play07.unity
+    guid: 2326b8bd2d0f99a48ac40600b0742e1c
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play08.unity
+    guid: 05db184e1977b34488841fcb6ca1a74f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play09.unity
+    guid: e8f93be4b84e88c40aa032d51d331617
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVD/LVD.Play10.unity
+    guid: abbf2d0c3979b4d4e9aeb14161f94e03
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play01.unity
+    guid: 66f05338d17f91843b9d0748f0ded7e2
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play02.unity
+    guid: 3847d193d25184448a9a3d2c5bad18b0
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play03.unity
+    guid: 813306c36f5d1f64fbc150a193b54900
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play04.unity
+    guid: 538a86c484ee02b499b5de6f1eb87ecf
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play05.unity
+    guid: 442d00e6241a3ce4c89de14897da3944
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play06.unity
+    guid: 0901a3ebd4d842044b213cb4ff06b02b
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play07.unity
+    guid: 4e50a7d75f147bd41b65e02629661df3
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play08.unity
+    guid: cfdb4a702927a5e48b0549a369a1f28b
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play09.unity
+    guid: 00ab7bf56bd48f94b8961c1233760e26
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVE/LVE.Play10.unity
+    guid: 14c45c1c7ccb6ec4bbb8e5ec1ca07fe9
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play01.unity
+    guid: b1068fccf30d1b54b938f76e6ca679f9
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play02.unity
+    guid: 61e86d4fabd186f48a8f58a3dbc78187
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play03.unity
+    guid: 8fcaf688dd3e71f4bb15bdace3f64eb3
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play04.unity
+    guid: 9e138bf4e2a22194d85572885eb096c5
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play05.unity
+    guid: 59503546ce9003142a87a671dc12a2f1
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play06.unity
+    guid: c5f79b4b0cda38141bd95b1fa6a3837f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play07.unity
+    guid: 4cac173e3e8933e4ca03c2ac5704f0ea
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play08.unity
+    guid: 93a1536a9e5a760488a2d77127122959
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play09.unity
+    guid: 387c18c430fa7a04ebbbb2898077f9f0
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVF/LVF.Play10.unity
+    guid: 033d33231b07fda4483a8e76b9179d05
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play01.unity
+    guid: a289119d16f53064ca8164dd6242e5a0
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play02.unity
+    guid: 9d3cc2bbaaf3ebb4caec64a1569d483f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play03.unity
+    guid: 0f996a88db9fa2b4caa9cf6e979b5099
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play04.unity
+    guid: 780276658f5166741b6e630e20dc2d5e
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play05.unity
+    guid: 0f38a59dc6b506442b2b444789b7fc72
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play06.unity
+    guid: 285e56a82cdef6c4caa2eaf951d39441
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play07.unity
+    guid: 8eb553ee55e84c441af4851d57560534
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play08.unity
+    guid: 1c8f22281b6e3124d8a0ad4333014b16
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play09.unity
+    guid: cb7d262a40ac75d438fd1a1aa40abe7f
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVG/LVG.Play10.unity
+    guid: fa77960de5ecc8b42892a6db740a776b
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play01.unity
+    guid: 62b00c2c273a429478fde36c7a8d54a2
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play02.unity
+    guid: 98989a227707af2408794ecbf651d513
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play03.unity
+    guid: d6636ee5470c99d4585d8813704776de
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play04.unity
+    guid: ee8553c2d282d944994486d58904da89
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play05.unity
+    guid: afd97cab54529fc489dd3f3377bbca5e
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play06.unity
+    guid: d0b253ebf83e263479c6f636974e9da8
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play07.unity
+    guid: b6751baf2a96b594e96192730254e56a
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play08.unity
+    guid: 1426c95965500ba47913d83cfb5d553d
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play09.unity
+    guid: 4293fb688084c4744a8504b356dbe06f
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVH/LVH.Play10.unity
+    guid: e1216da394a365840aa72994d1e28a1a
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play01.unity
+    guid: 7951da6d32537b84bae3714aa1156290
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play02.unity
+    guid: 63af351ac672ec34e829a3d920a1bcf7
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play03.unity
+    guid: b84926967fb44f84895466d3035ef81d
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play04.unity
+    guid: 08dfaa5a26eab72449de97923a0b7835
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play05.unity
+    guid: 9c9155f4726731f4da0dbfea1484716f
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play06.unity
+    guid: 6cddab78e2e6ed2408f7985b56c4f324
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play07.unity
+    guid: 073a4cff9f4aba142a885740cf178a75
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play08.unity
+    guid: 357d89787505fe44994b49222241c8cd
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play09.unity
+    guid: 263cb39a66eeb4640a10f6e3673fb97d
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVI/LVI.Play10.unity
+    guid: caf8f75dd90bd1f46a66d1d2df8cb989
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play01.unity
+    guid: 891620479318ffd428f9e198bdb9ef8b
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play02.unity
+    guid: 4e9948f3f1e0af74480f8ba2e229012a
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play03.unity
+    guid: d10cd31bd5a42a5488f49e3620a004ce
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play04.unity
+    guid: 14a8b1aadf2472341b3b16f9f27bc04c
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play05.unity
+    guid: f31c6c26f6b513b4bb706bd074fdc5bb
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play06.unity
+    guid: 717909ff118781142bed0a9c4ee58d43
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play07.unity
+    guid: b50a8dd13c9bd4741b1711923349441f
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play08.unity
+    guid: 9bd1cd68cbebddb4fb59217123b49681
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play09.unity
+    guid: 3eece7dc21f2af342b4deb5e73ea6b43
+  - enabled: 0
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/LV/LVJ/LVJ.Play10.unity
+    guid: 5ba8a8b3a3f88d74a94b2b636fe803c9
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC03.GameMenu.MainScreen.unity
+    guid: 8eafd1ce0736f9147891b3ae86ecfe8b
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC04.GameMenu.PlayerScreen.unity
+    guid: 8b58943b00bfb6c41b2019d0a2b8dc87
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC05.GameMenu.HighScore.unity
+    guid: aca3fbdf24f91c348a8581dc8f411337
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC12.GameMenu.PlayerSelection.Horizontal.unity
+    guid: 4e198648fb0c8fe489082349dc139338
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC10.GameMenu.PlayerSelection.Vertical.unity
+    guid: fa853812a36cf194089f295f9eb3c2b6
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC09.GameMenu.PlayerSelection.Grid.unity
+    guid: 368d4271d6c49e64cb968733f9e0d3f0
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC06.GameMenu.LevelSelection.Map.unity
+    guid: 575c993dfdf9ef545a82ad3ff1c0620e
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC08.GameMenu.LevelSelection.Grid.unity
+    guid: a9b1640cf098a6c47a6c56791e8fd575
+  - enabled: 1
+    path: Assets/Zetcil/Blueprint/Gameflow/Scene/PC/PC07.GameMenu.LevelSelection.ScrollMap.unity
+    guid: becb0ac791bc9134daa026e70de21875
+  m_configObjects: {}

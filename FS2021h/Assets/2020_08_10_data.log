@@ -1,0 +1,278 @@
+2020/08/10 08:19:21 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /www/wwwroot/gamesfq.linknet.co.id/cube/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /www/wwwroot/gamesfq.linknet.co.id/cube/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /www/wwwroot/gamesfq.linknet.co.id/cube/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:21:54 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /www/wwwroot/gamesfq.linknet.co.id/cube/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /www/wwwroot/gamesfq.linknet.co.id/cube/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /www/wwwroot/gamesfq.linknet.co.id/cube/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:27:58 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:28:30 : LOGIN_FAILED
+2020/08/10 08:28:40 : LOGIN_FAILED
+2020/08/10 08:29:24 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:29:35 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:29:45 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:30:03 : LOGIN_FAILED
+2020/08/10 08:30:11 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:49:42 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:49:43 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:50:06 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:50:08 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:50:58 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:51:00 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:51:04 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:51:29 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:51:40 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:53:35 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:53:37 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:53:58 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>An uncaught Exception was encountered</h4>
+
+<p>Type: ArgumentCountError</p>
+<p>Message: Too few arguments to function Gameuser::login(), 0 passed in /home/u4568507/public_html/linknet/atom/system/core/CodeIgniter.php on line 532 and exactly 2 expected</p>
+<p>Filename: /home/u4568507/public_html/linknet/atom/application/controllers/Gameuser.php</p>
+<p>Line Number: 87</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/u4568507/public_html/linknet/atom/index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+		
+	
+
+</div>
+2020/08/10 08:54:38 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:55:02 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:55:35 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 08:56:19 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 09:36:48 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 09:38:04 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 09:38:44 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 09:41:10 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 09:41:32 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:07:46 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:07:46 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:07:48 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:07:50 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:07:54 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:07:59 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:08:00 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:08:00 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:08:01 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:08:02 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:08:03 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:08:03 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 10:08:04 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 02:09:37 : LOGIN_SUCCESS|001|a@a.com|xxx|xxx|0|120|0|0|0
+2020/08/10 02:10:28 : USER_ALREADY_EXISTS
+2020/08/10 02:10:44 : LOGIN_SUCCESS|11|22|44|33|0|120|0|0|0
+2020/08/10 02:11:58 : LOGIN_SUCCESS|11|22|44|33|0|120|0|0|0

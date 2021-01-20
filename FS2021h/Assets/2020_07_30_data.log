@@ -1,0 +1,3189 @@
+2020/07/30 06:23:58 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 06:24:02 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 06:24:40 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 06:26:26 : <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link type="text/css" rel="stylesheet" href="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/css/flexigrid.css" />
+	<link type="text/css" rel="stylesheet" href="http://127.0.0.1/atom/assets/grocery_crud/css/ui/simple/jquery-ui-1.10.1.custom.min.css" />
+</head>
+<body>
+	<div style='height:20px;'></div>  
+    <div style="padding: 10px">
+		<script type="text/javascript">
+	var dialog_forms = '';
+
+</script>
+<script type='text/javascript'>
+	var base_url = 'http://127.0.0.1/atom/';
+
+	var subject = 'Game Data Login';
+	var ajax_list_info_url = 'http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list_info';
+	var unique_hash = '4cc5b5e28f8df5c5bc04fbcd732559e5';
+	var export_url = 'http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/export';
+
+	var message_alert_delete = "Are you sure that you want to delete this record?";
+
+</script>
+<div id='list-report-error' class='report-div error'></div>
+<div id='list-report-success' class='report-div success report-list' ></div>
+<div class="flexigrid" style='width: 100%;' data-unique-hash="4cc5b5e28f8df5c5bc04fbcd732559e5">
+	<div id="hidden-operations" class="hidden-operations"></div>
+	<div class="mDiv">
+		<div class="ftitle">
+			&nbsp;
+		</div>
+		<div title="Minimize/Maximize" class="ptogtitle">
+			<span></span>
+		</div>
+	</div>
+	<div id='main-table-box' class="main-table-box">
+
+		<div class="tDiv">
+				<div class="tDiv2">
+        	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/add' title='Add Game Data Login' class='add-anchor add_button'>
+			<div class="fbutton">
+				<div>
+					<span class="add">Add Game Data Login</span>
+				</div>
+			</div>
+            </a>
+			<div class="btnseparator">
+			</div>
+		</div>
+				<div class="tDiv3">
+			        	<a class="export-anchor" href="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/export" download>
+				<div class="fbutton">
+					<div>
+						<span class="export">Export</span>
+					</div>
+				</div>
+            </a>
+			<div class="btnseparator"></div>
+						        	<a class="print-anchor" data-url="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/print">
+				<div class="fbutton">
+					<div>
+						<span class="print">Print</span>
+					</div>
+				</div>
+            </a>
+			<div class="btnseparator"></div>
+					</div>
+		<div class='clear'></div>
+	</div>
+	
+	<div id='ajax_list' class="ajax_list">
+		<div class="bDiv" >
+		<table cellspacing="0" cellpadding="0" border="0" id="flex1">
+		<thead>
+			<tr class='hDiv'>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='NIK'>
+						NIK					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Password'>
+						Password					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Nickname'>
+						Nickname					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Score'>
+						Score					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Energy'>
+						Energy					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Coin'>
+						Coin					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Diamond'>
+						Diamond					</div>
+				</th>
+												<th align="left" abbr="tools" axis="col1" class="" width='20%'>
+					<div class="text-right">
+						Actions					</div>
+				</th>
+							</tr>
+		</thead>		
+		<tbody>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>1</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>3</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>4</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/1' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/1' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/1' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/1' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/12' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/12' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/12' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/12' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>12345</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>admin</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>admin</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>10000</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/12345' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/12345' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/12345' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/12345' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/32' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/32' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/32' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/32' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/45' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/45' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/45' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/45' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>a</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>b</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>c</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>10</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/a' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/a' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/a' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/a' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		</tbody>
+		</table>
+	</div>
+	
+	</div>
+	<form action="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list" method="post" id="filtering_form" class="filtering_form" autocomplete = "off" data-ajax-list-info-url="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list_info" accept-charset="utf-8">
+	<div class="sDiv quickSearchBox" id='quickSearchBox'>
+		<div class="sDiv2">
+			Search: <input type="text" class="qsbsearch_fieldox search_text" name="search_text" size="30" id='search_text'>
+			<select name="search_field" id="search_field">
+				<option value="">Search all</option>
+								<option value="NIK">NIK&nbsp;&nbsp;</option>
+								<option value="Password">Password&nbsp;&nbsp;</option>
+								<option value="Nickname">Nickname&nbsp;&nbsp;</option>
+								<option value="Score">Score&nbsp;&nbsp;</option>
+								<option value="Energy">Energy&nbsp;&nbsp;</option>
+								<option value="Coin">Coin&nbsp;&nbsp;</option>
+								<option value="Diamond">Diamond&nbsp;&nbsp;</option>
+							</select>
+            <input type="button" value="Search" class="crud_search" id='crud_search'>
+		</div>
+        <div class='search-div-clear-button'>
+        	<input type="button" value="Clear filtering" id='search_clear' class="search_clear">
+        </div>
+	</div>
+	<div class="pDiv">
+		<div class="pDiv2">
+			<div class="pGroup">
+				<span class="pcontrol">
+										Show 					<select name="per_page" id='per_page' class="per_page">
+													<option value="10" selected="selected">10&nbsp;&nbsp;</option>
+													<option value="25" >25&nbsp;&nbsp;</option>
+													<option value="50" >50&nbsp;&nbsp;</option>
+													<option value="100" >100&nbsp;&nbsp;</option>
+											</select>
+					 entries					<input type='hidden' name='order_by[0]' id='hidden-sorting' class='hidden-sorting' value='' />
+					<input type='hidden' name='order_by[1]' id='hidden-ordering' class='hidden-ordering'  value=''/>
+				</span>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pFirst pButton first-button">
+					<span></span>
+				</div>
+				<div class="pPrev pButton prev-button">
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<span class="pcontrol">Page <input name='page' type="text" value="1" size="4" id='crud_page' class="crud_page">
+				of				<span id='last-page-number' class="last-page-number">1</span></span>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pNext pButton next-button" >
+					<span></span>
+				</div>
+				<div class="pLast pButton last-button">
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pReload pButton ajax_refresh_and_loading" id='ajax_refresh_and_loading'>
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<span class="pPageStat">
+																				Displaying <span id='page-starts-from' class='page-starts-from'>1</span> to <span id='page-ends-to' class='page-ends-to'>6</span> of <span id='total_items' class='total_items'>6</span> items				</span>
+			</div>
+		</div>
+		<div style="clear: both;">
+		</div>
+	</div>
+	</form>	</div>
+</div>
+<script type="text/javascript">
+	var default_javascript_path = 'http://127.0.0.1/atom/assets/grocery_crud/js';
+	var default_css_path = 'http://127.0.0.1/atom/assets/grocery_crud/css';
+	var default_texteditor_path = 'http://127.0.0.1/atom/assets/grocery_crud/texteditor';
+	var default_theme_path = 'http://127.0.0.1/atom/assets/grocery_crud/themes';
+	var base_url = 'http://127.0.0.1/atom/';
+
+</script>
+    </div>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery-1.11.1.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/common/list.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/cookies.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/flexigrid.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/jquery.form.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/jquery.numeric.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/jquery.printElement.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/ui/jquery-ui-1.10.3.custom.min.js"></script>
+    </body>
+</html>
+
+2020/07/30 06:26:27 : <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link type="text/css" rel="stylesheet" href="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/css/flexigrid.css" />
+	<link type="text/css" rel="stylesheet" href="http://127.0.0.1/atom/assets/grocery_crud/css/ui/simple/jquery-ui-1.10.1.custom.min.css" />
+</head>
+<body>
+	<div style='height:20px;'></div>  
+    <div style="padding: 10px">
+		<script type="text/javascript">
+	var dialog_forms = '';
+
+</script>
+<script type='text/javascript'>
+	var base_url = 'http://127.0.0.1/atom/';
+
+	var subject = 'Game Data Login';
+	var ajax_list_info_url = 'http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list_info';
+	var unique_hash = '4cc5b5e28f8df5c5bc04fbcd732559e5';
+	var export_url = 'http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/export';
+
+	var message_alert_delete = "Are you sure that you want to delete this record?";
+
+</script>
+<div id='list-report-error' class='report-div error'></div>
+<div id='list-report-success' class='report-div success report-list' ></div>
+<div class="flexigrid" style='width: 100%;' data-unique-hash="4cc5b5e28f8df5c5bc04fbcd732559e5">
+	<div id="hidden-operations" class="hidden-operations"></div>
+	<div class="mDiv">
+		<div class="ftitle">
+			&nbsp;
+		</div>
+		<div title="Minimize/Maximize" class="ptogtitle">
+			<span></span>
+		</div>
+	</div>
+	<div id='main-table-box' class="main-table-box">
+
+		<div class="tDiv">
+				<div class="tDiv2">
+        	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/add' title='Add Game Data Login' class='add-anchor add_button'>
+			<div class="fbutton">
+				<div>
+					<span class="add">Add Game Data Login</span>
+				</div>
+			</div>
+            </a>
+			<div class="btnseparator">
+			</div>
+		</div>
+				<div class="tDiv3">
+			        	<a class="export-anchor" href="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/export" download>
+				<div class="fbutton">
+					<div>
+						<span class="export">Export</span>
+					</div>
+				</div>
+            </a>
+			<div class="btnseparator"></div>
+						        	<a class="print-anchor" data-url="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/print">
+				<div class="fbutton">
+					<div>
+						<span class="print">Print</span>
+					</div>
+				</div>
+            </a>
+			<div class="btnseparator"></div>
+					</div>
+		<div class='clear'></div>
+	</div>
+	
+	<div id='ajax_list' class="ajax_list">
+		<div class="bDiv" >
+		<table cellspacing="0" cellpadding="0" border="0" id="flex1">
+		<thead>
+			<tr class='hDiv'>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='NIK'>
+						NIK					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Password'>
+						Password					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Nickname'>
+						Nickname					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Score'>
+						Score					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Energy'>
+						Energy					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Coin'>
+						Coin					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Diamond'>
+						Diamond					</div>
+				</th>
+												<th align="left" abbr="tools" axis="col1" class="" width='20%'>
+					<div class="text-right">
+						Actions					</div>
+				</th>
+							</tr>
+		</thead>		
+		<tbody>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>1</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>3</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>4</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/1' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/1' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/1' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/1' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/12' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/12' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/12' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/12' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>12345</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>admin</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>admin</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>10000</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/12345' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/12345' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/12345' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/12345' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/32' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/32' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/32' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/32' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/45' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/45' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/45' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/45' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>a</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>b</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>c</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>10</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/a' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/a' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/a' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/a' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		</tbody>
+		</table>
+	</div>
+	
+	</div>
+	<form action="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list" method="post" id="filtering_form" class="filtering_form" autocomplete = "off" data-ajax-list-info-url="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list_info" accept-charset="utf-8">
+	<div class="sDiv quickSearchBox" id='quickSearchBox'>
+		<div class="sDiv2">
+			Search: <input type="text" class="qsbsearch_fieldox search_text" name="search_text" size="30" id='search_text'>
+			<select name="search_field" id="search_field">
+				<option value="">Search all</option>
+								<option value="NIK">NIK&nbsp;&nbsp;</option>
+								<option value="Password">Password&nbsp;&nbsp;</option>
+								<option value="Nickname">Nickname&nbsp;&nbsp;</option>
+								<option value="Score">Score&nbsp;&nbsp;</option>
+								<option value="Energy">Energy&nbsp;&nbsp;</option>
+								<option value="Coin">Coin&nbsp;&nbsp;</option>
+								<option value="Diamond">Diamond&nbsp;&nbsp;</option>
+							</select>
+            <input type="button" value="Search" class="crud_search" id='crud_search'>
+		</div>
+        <div class='search-div-clear-button'>
+        	<input type="button" value="Clear filtering" id='search_clear' class="search_clear">
+        </div>
+	</div>
+	<div class="pDiv">
+		<div class="pDiv2">
+			<div class="pGroup">
+				<span class="pcontrol">
+										Show 					<select name="per_page" id='per_page' class="per_page">
+													<option value="10" selected="selected">10&nbsp;&nbsp;</option>
+													<option value="25" >25&nbsp;&nbsp;</option>
+													<option value="50" >50&nbsp;&nbsp;</option>
+													<option value="100" >100&nbsp;&nbsp;</option>
+											</select>
+					 entries					<input type='hidden' name='order_by[0]' id='hidden-sorting' class='hidden-sorting' value='' />
+					<input type='hidden' name='order_by[1]' id='hidden-ordering' class='hidden-ordering'  value=''/>
+				</span>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pFirst pButton first-button">
+					<span></span>
+				</div>
+				<div class="pPrev pButton prev-button">
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<span class="pcontrol">Page <input name='page' type="text" value="1" size="4" id='crud_page' class="crud_page">
+				of				<span id='last-page-number' class="last-page-number">1</span></span>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pNext pButton next-button" >
+					<span></span>
+				</div>
+				<div class="pLast pButton last-button">
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pReload pButton ajax_refresh_and_loading" id='ajax_refresh_and_loading'>
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<span class="pPageStat">
+																				Displaying <span id='page-starts-from' class='page-starts-from'>1</span> to <span id='page-ends-to' class='page-ends-to'>6</span> of <span id='total_items' class='total_items'>6</span> items				</span>
+			</div>
+		</div>
+		<div style="clear: both;">
+		</div>
+	</div>
+	</form>	</div>
+</div>
+<script type="text/javascript">
+	var default_javascript_path = 'http://127.0.0.1/atom/assets/grocery_crud/js';
+	var default_css_path = 'http://127.0.0.1/atom/assets/grocery_crud/css';
+	var default_texteditor_path = 'http://127.0.0.1/atom/assets/grocery_crud/texteditor';
+	var default_theme_path = 'http://127.0.0.1/atom/assets/grocery_crud/themes';
+	var base_url = 'http://127.0.0.1/atom/';
+
+</script>
+    </div>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery-1.11.1.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/common/list.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/cookies.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/flexigrid.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/jquery.form.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/jquery.numeric.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/jquery.printElement.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/ui/jquery-ui-1.10.3.custom.min.js"></script>
+    </body>
+</html>
+
+2020/07/30 06:26:28 : <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link type="text/css" rel="stylesheet" href="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/css/flexigrid.css" />
+	<link type="text/css" rel="stylesheet" href="http://127.0.0.1/atom/assets/grocery_crud/css/ui/simple/jquery-ui-1.10.1.custom.min.css" />
+</head>
+<body>
+	<div style='height:20px;'></div>  
+    <div style="padding: 10px">
+		<script type="text/javascript">
+	var dialog_forms = '';
+
+</script>
+<script type='text/javascript'>
+	var base_url = 'http://127.0.0.1/atom/';
+
+	var subject = 'Game Data Login';
+	var ajax_list_info_url = 'http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list_info';
+	var unique_hash = '4cc5b5e28f8df5c5bc04fbcd732559e5';
+	var export_url = 'http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/export';
+
+	var message_alert_delete = "Are you sure that you want to delete this record?";
+
+</script>
+<div id='list-report-error' class='report-div error'></div>
+<div id='list-report-success' class='report-div success report-list' ></div>
+<div class="flexigrid" style='width: 100%;' data-unique-hash="4cc5b5e28f8df5c5bc04fbcd732559e5">
+	<div id="hidden-operations" class="hidden-operations"></div>
+	<div class="mDiv">
+		<div class="ftitle">
+			&nbsp;
+		</div>
+		<div title="Minimize/Maximize" class="ptogtitle">
+			<span></span>
+		</div>
+	</div>
+	<div id='main-table-box' class="main-table-box">
+
+		<div class="tDiv">
+				<div class="tDiv2">
+        	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/add' title='Add Game Data Login' class='add-anchor add_button'>
+			<div class="fbutton">
+				<div>
+					<span class="add">Add Game Data Login</span>
+				</div>
+			</div>
+            </a>
+			<div class="btnseparator">
+			</div>
+		</div>
+				<div class="tDiv3">
+			        	<a class="export-anchor" href="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/export" download>
+				<div class="fbutton">
+					<div>
+						<span class="export">Export</span>
+					</div>
+				</div>
+            </a>
+			<div class="btnseparator"></div>
+						        	<a class="print-anchor" data-url="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/print">
+				<div class="fbutton">
+					<div>
+						<span class="print">Print</span>
+					</div>
+				</div>
+            </a>
+			<div class="btnseparator"></div>
+					</div>
+		<div class='clear'></div>
+	</div>
+	
+	<div id='ajax_list' class="ajax_list">
+		<div class="bDiv" >
+		<table cellspacing="0" cellpadding="0" border="0" id="flex1">
+		<thead>
+			<tr class='hDiv'>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='NIK'>
+						NIK					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Password'>
+						Password					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Nickname'>
+						Nickname					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Score'>
+						Score					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Energy'>
+						Energy					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Coin'>
+						Coin					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Diamond'>
+						Diamond					</div>
+				</th>
+												<th align="left" abbr="tools" axis="col1" class="" width='20%'>
+					<div class="text-right">
+						Actions					</div>
+				</th>
+							</tr>
+		</thead>		
+		<tbody>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>1</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>3</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>4</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/1' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/1' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/1' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/1' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/12' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/12' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/12' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/12' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>12345</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>admin</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>admin</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>10000</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/12345' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/12345' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/12345' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/12345' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/32' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/32' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/32' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/32' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/45' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/45' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/45' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/45' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>a</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>b</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>c</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>10</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/a' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/a' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/a' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/a' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		</tbody>
+		</table>
+	</div>
+	
+	</div>
+	<form action="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list" method="post" id="filtering_form" class="filtering_form" autocomplete = "off" data-ajax-list-info-url="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list_info" accept-charset="utf-8">
+	<div class="sDiv quickSearchBox" id='quickSearchBox'>
+		<div class="sDiv2">
+			Search: <input type="text" class="qsbsearch_fieldox search_text" name="search_text" size="30" id='search_text'>
+			<select name="search_field" id="search_field">
+				<option value="">Search all</option>
+								<option value="NIK">NIK&nbsp;&nbsp;</option>
+								<option value="Password">Password&nbsp;&nbsp;</option>
+								<option value="Nickname">Nickname&nbsp;&nbsp;</option>
+								<option value="Score">Score&nbsp;&nbsp;</option>
+								<option value="Energy">Energy&nbsp;&nbsp;</option>
+								<option value="Coin">Coin&nbsp;&nbsp;</option>
+								<option value="Diamond">Diamond&nbsp;&nbsp;</option>
+							</select>
+            <input type="button" value="Search" class="crud_search" id='crud_search'>
+		</div>
+        <div class='search-div-clear-button'>
+        	<input type="button" value="Clear filtering" id='search_clear' class="search_clear">
+        </div>
+	</div>
+	<div class="pDiv">
+		<div class="pDiv2">
+			<div class="pGroup">
+				<span class="pcontrol">
+										Show 					<select name="per_page" id='per_page' class="per_page">
+													<option value="10" selected="selected">10&nbsp;&nbsp;</option>
+													<option value="25" >25&nbsp;&nbsp;</option>
+													<option value="50" >50&nbsp;&nbsp;</option>
+													<option value="100" >100&nbsp;&nbsp;</option>
+											</select>
+					 entries					<input type='hidden' name='order_by[0]' id='hidden-sorting' class='hidden-sorting' value='' />
+					<input type='hidden' name='order_by[1]' id='hidden-ordering' class='hidden-ordering'  value=''/>
+				</span>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pFirst pButton first-button">
+					<span></span>
+				</div>
+				<div class="pPrev pButton prev-button">
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<span class="pcontrol">Page <input name='page' type="text" value="1" size="4" id='crud_page' class="crud_page">
+				of				<span id='last-page-number' class="last-page-number">1</span></span>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pNext pButton next-button" >
+					<span></span>
+				</div>
+				<div class="pLast pButton last-button">
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pReload pButton ajax_refresh_and_loading" id='ajax_refresh_and_loading'>
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<span class="pPageStat">
+																				Displaying <span id='page-starts-from' class='page-starts-from'>1</span> to <span id='page-ends-to' class='page-ends-to'>6</span> of <span id='total_items' class='total_items'>6</span> items				</span>
+			</div>
+		</div>
+		<div style="clear: both;">
+		</div>
+	</div>
+	</form>	</div>
+</div>
+<script type="text/javascript">
+	var default_javascript_path = 'http://127.0.0.1/atom/assets/grocery_crud/js';
+	var default_css_path = 'http://127.0.0.1/atom/assets/grocery_crud/css';
+	var default_texteditor_path = 'http://127.0.0.1/atom/assets/grocery_crud/texteditor';
+	var default_theme_path = 'http://127.0.0.1/atom/assets/grocery_crud/themes';
+	var base_url = 'http://127.0.0.1/atom/';
+
+</script>
+    </div>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery-1.11.1.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/common/list.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/cookies.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/flexigrid.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/jquery.form.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/jquery.numeric.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/jquery.printElement.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/ui/jquery-ui-1.10.3.custom.min.js"></script>
+    </body>
+</html>
+
+2020/07/30 06:26:32 : <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link type="text/css" rel="stylesheet" href="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/css/flexigrid.css" />
+	<link type="text/css" rel="stylesheet" href="http://127.0.0.1/atom/assets/grocery_crud/css/ui/simple/jquery-ui-1.10.1.custom.min.css" />
+</head>
+<body>
+	<div style='height:20px;'></div>  
+    <div style="padding: 10px">
+		<script type="text/javascript">
+	var dialog_forms = '';
+
+</script>
+<script type='text/javascript'>
+	var base_url = 'http://127.0.0.1/atom/';
+
+	var subject = 'Game Data Login';
+	var ajax_list_info_url = 'http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list_info';
+	var unique_hash = '4cc5b5e28f8df5c5bc04fbcd732559e5';
+	var export_url = 'http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/export';
+
+	var message_alert_delete = "Are you sure that you want to delete this record?";
+
+</script>
+<div id='list-report-error' class='report-div error'></div>
+<div id='list-report-success' class='report-div success report-list' ></div>
+<div class="flexigrid" style='width: 100%;' data-unique-hash="4cc5b5e28f8df5c5bc04fbcd732559e5">
+	<div id="hidden-operations" class="hidden-operations"></div>
+	<div class="mDiv">
+		<div class="ftitle">
+			&nbsp;
+		</div>
+		<div title="Minimize/Maximize" class="ptogtitle">
+			<span></span>
+		</div>
+	</div>
+	<div id='main-table-box' class="main-table-box">
+
+		<div class="tDiv">
+				<div class="tDiv2">
+        	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/add' title='Add Game Data Login' class='add-anchor add_button'>
+			<div class="fbutton">
+				<div>
+					<span class="add">Add Game Data Login</span>
+				</div>
+			</div>
+            </a>
+			<div class="btnseparator">
+			</div>
+		</div>
+				<div class="tDiv3">
+			        	<a class="export-anchor" href="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/export" download>
+				<div class="fbutton">
+					<div>
+						<span class="export">Export</span>
+					</div>
+				</div>
+            </a>
+			<div class="btnseparator"></div>
+						        	<a class="print-anchor" data-url="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/print">
+				<div class="fbutton">
+					<div>
+						<span class="print">Print</span>
+					</div>
+				</div>
+            </a>
+			<div class="btnseparator"></div>
+					</div>
+		<div class='clear'></div>
+	</div>
+	
+	<div id='ajax_list' class="ajax_list">
+		<div class="bDiv" >
+		<table cellspacing="0" cellpadding="0" border="0" id="flex1">
+		<thead>
+			<tr class='hDiv'>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='NIK'>
+						NIK					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Password'>
+						Password					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Nickname'>
+						Nickname					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Score'>
+						Score					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Energy'>
+						Energy					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Coin'>
+						Coin					</div>
+				</th>
+								<th width='11%'>
+					<div class="text-left field-sorting " 
+						rel='Diamond'>
+						Diamond					</div>
+				</th>
+												<th align="left" abbr="tools" axis="col1" class="" width='20%'>
+					<div class="text-right">
+						Actions					</div>
+				</th>
+							</tr>
+		</thead>		
+		<tbody>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>1</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>3</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>4</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/1' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/1' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/1' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/1' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>12</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/12' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/12' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/12' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/12' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>12345</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>admin</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>admin</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>10000</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/12345' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/12345' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/12345' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/12345' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>32</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/32' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/32' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/32' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/32' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  >
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>45</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>100</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/45' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/45' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/45' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/45' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		<tr  class="erow">
+						<td width='11%' class=''>
+				<div class='text-left'>a</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>b</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>c</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>10</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+						<td width='11%' class=''>
+				<div class='text-left'>0</div>
+			</td>
+									<td align="left" width='20%'>
+				<div class='tools'>				
+					                    	<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/delete/a' title='Delete Game Data Login' class="delete-row" >
+                    			<span class='delete-icon'></span>
+                    	</a>
+                                        						<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/edit/a' title='Edit Game Data Login' class="edit_button"><span class='edit-icon'></span></a>
+					                                            <a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/clone/a' title='Clone Game Data Login' class="clone_button"><span class='clone-icon'></span></a>
+                    											<a href='http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/read/a' title='View Game Data Login' class="edit_button"><span class='read-icon'></span></a>
+															
+                    <div class='clear'></div>
+				</div>
+			</td>
+					</tr>
+        
+		</tbody>
+		</table>
+	</div>
+	
+	</div>
+	<form action="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list" method="post" id="filtering_form" class="filtering_form" autocomplete = "off" data-ajax-list-info-url="http://127.0.0.1/atom/index.php/gameuser/data/12345/admin/ajax_list_info" accept-charset="utf-8">
+	<div class="sDiv quickSearchBox" id='quickSearchBox'>
+		<div class="sDiv2">
+			Search: <input type="text" class="qsbsearch_fieldox search_text" name="search_text" size="30" id='search_text'>
+			<select name="search_field" id="search_field">
+				<option value="">Search all</option>
+								<option value="NIK">NIK&nbsp;&nbsp;</option>
+								<option value="Password">Password&nbsp;&nbsp;</option>
+								<option value="Nickname">Nickname&nbsp;&nbsp;</option>
+								<option value="Score">Score&nbsp;&nbsp;</option>
+								<option value="Energy">Energy&nbsp;&nbsp;</option>
+								<option value="Coin">Coin&nbsp;&nbsp;</option>
+								<option value="Diamond">Diamond&nbsp;&nbsp;</option>
+							</select>
+            <input type="button" value="Search" class="crud_search" id='crud_search'>
+		</div>
+        <div class='search-div-clear-button'>
+        	<input type="button" value="Clear filtering" id='search_clear' class="search_clear">
+        </div>
+	</div>
+	<div class="pDiv">
+		<div class="pDiv2">
+			<div class="pGroup">
+				<span class="pcontrol">
+										Show 					<select name="per_page" id='per_page' class="per_page">
+													<option value="10" selected="selected">10&nbsp;&nbsp;</option>
+													<option value="25" >25&nbsp;&nbsp;</option>
+													<option value="50" >50&nbsp;&nbsp;</option>
+													<option value="100" >100&nbsp;&nbsp;</option>
+											</select>
+					 entries					<input type='hidden' name='order_by[0]' id='hidden-sorting' class='hidden-sorting' value='' />
+					<input type='hidden' name='order_by[1]' id='hidden-ordering' class='hidden-ordering'  value=''/>
+				</span>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pFirst pButton first-button">
+					<span></span>
+				</div>
+				<div class="pPrev pButton prev-button">
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<span class="pcontrol">Page <input name='page' type="text" value="1" size="4" id='crud_page' class="crud_page">
+				of				<span id='last-page-number' class="last-page-number">1</span></span>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pNext pButton next-button" >
+					<span></span>
+				</div>
+				<div class="pLast pButton last-button">
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<div class="pReload pButton ajax_refresh_and_loading" id='ajax_refresh_and_loading'>
+					<span></span>
+				</div>
+			</div>
+			<div class="btnseparator">
+			</div>
+			<div class="pGroup">
+				<span class="pPageStat">
+																				Displaying <span id='page-starts-from' class='page-starts-from'>1</span> to <span id='page-ends-to' class='page-ends-to'>6</span> of <span id='total_items' class='total_items'>6</span> items				</span>
+			</div>
+		</div>
+		<div style="clear: both;">
+		</div>
+	</div>
+	</form>	</div>
+</div>
+<script type="text/javascript">
+	var default_javascript_path = 'http://127.0.0.1/atom/assets/grocery_crud/js';
+	var default_css_path = 'http://127.0.0.1/atom/assets/grocery_crud/css';
+	var default_texteditor_path = 'http://127.0.0.1/atom/assets/grocery_crud/texteditor';
+	var default_theme_path = 'http://127.0.0.1/atom/assets/grocery_crud/themes';
+	var base_url = 'http://127.0.0.1/atom/';
+
+</script>
+    </div>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery-1.11.1.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/common/list.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/cookies.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/flexigrid.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/jquery.form.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/jquery.numeric.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/themes/flexigrid/js/jquery.printElement.min.js"></script>
+            <script src="http://127.0.0.1/atom/assets/grocery_crud/js/jquery_plugins/ui/jquery-ui-1.10.3.custom.min.js"></script>
+    </body>
+</html>
+
+2020/07/30 06:28:13 : LOGIN_SUCCESS|12345||admin|admin|10000|0|0|0
+2020/07/30 06:28:32 : LOGIN_SUCCESS|12345||admin|admin|10000|0|0|0
+2020/07/30 08:06:35 : <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>An Error Was Encountered</h1>
+		<p>The URI you submitted has disallowed characters.</p>	</div>
+</body>
+</html>
+2020/07/30 08:07:09 : <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>An Error Was Encountered</h1>
+		<p>The URI you submitted has disallowed characters.</p>	</div>
+</body>
+</html>
+2020/07/30 08:07:14 : <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+<style type="text/css">
+
+::selection { background-color: #E13300; color: white; }
+::-moz-selection { background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#container {
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+
+p {
+	margin: 12px 15px 12px 15px;
+}
+</style>
+</head>
+<body>
+	<div id="container">
+		<h1>An Error Was Encountered</h1>
+		<p>The URI you submitted has disallowed characters.</p>	</div>
+</body>
+</html>
+2020/07/30 08:12:01 : USER_ALREADY_EXISTS
+2020/07/30 08:12:10 : CREATE_USER_SUCCESS
+2020/07/30 08:22:46 : USER_ALREADY_EXISTS
+2020/07/30 08:22:50 : USER_ALREADY_EXISTS
+2020/07/30 08:22:54 : USER_ALREADY_EXISTS
+2020/07/30 08:22:58 : USER_ALREADY_EXISTS
+2020/07/30 08:23:13 : USER_ALREADY_EXISTS
+2020/07/30 08:23:57 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 6 for Gameuser::register()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 35</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 35<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 7 for Gameuser::register()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 35</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 35<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 8 for Gameuser::register()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 35</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 35<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>USER_ALREADY_EXISTS
+2020/07/30 08:24:03 : USER_ALREADY_EXISTS
+2020/07/30 08:24:54 : USER_ALREADY_EXISTS
+2020/07/30 08:25:30 : USER_ALREADY_EXISTS
+2020/07/30 08:26:19 : USER_ALREADY_EXISTS
+2020/07/30 08:26:24 : USER_ALREADY_EXISTS
+2020/07/30 08:28:42 : USER_ALREADY_EXISTS
+2020/07/30 08:40:33 : 
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 6 for Gameuser::register()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 35</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 35<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 7 for Gameuser::register()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 35</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 35<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  Missing argument 8 for Gameuser::register()</p>
+<p>Filename: controllers/Gameuser.php</p>
+<p>Line Number: 35</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\application\controllers\Gameuser.php<br />
+			Line: 35<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: E:\Xampp5\htdocs\atom\index.php<br />
+			Line: 315<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>USER_ALREADY_EXISTS
+2020/07/30 08:41:06 : USER_ALREADY_EXISTS
+2020/07/30 08:41:25 : CREATE_USER_SUCCESS
+2020/07/30 08:46:20 : CREATE_USER_SUCCESS
+2020/07/30 08:46:51 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:46:54 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:46:55 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:46:55 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:14 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:15 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:16 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:16 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:16 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:17 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:32 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:50 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:51 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:51 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:47:51 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:48:38 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:48:39 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:48:39 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:49:15 : <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Object not found!</title>
+<link rev="made" href="mailto:postmaster@localhost" />
+<style type="text/css"><!--/*--><![CDATA[/*><!--*/ 
+    body { color: #000000; background-color: #FFFFFF; }
+    a:link { color: #0000CC; }
+    p, address {margin-left: 3em;}
+    span {font-size: smaller;}
+/*]]>*/--></style>
+</head>
+
+<body>
+<h1>Object not found!</h1>
+<p>
+
+
+    The requested URL was not found on this server.
+
+  
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  
+
+</p>
+<p>
+If you think this is a server error, please contact
+the <a href="mailto:postmaster@localhost">webmaster</a>.
+
+</p>
+
+<h2>Error 404</h2>
+<address>
+  <a href="/">localhost</a><br />
+  <span>Apache/2.4.34 (Win32) OpenSSL/1.0.2o PHP/5.6.38</span>
+</address>
+</body>
+</html>
+
+
+2020/07/30 08:49:53 : LOGIN_FAILED
+2020/07/30 08:50:02 : LOGIN_SUCCESS|12345|admin@admin.com|admin|admin|10000|0|0|0
+2020/07/30 08:53:17 : LOGIN_FAILED
+2020/07/30 08:53:22 : LOGIN_FAILED
