@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.4514069, g: 0.50087017, b: 0.5721601, a: 1}
+  m_IndirectSpecularColor: {r: 0.4514069, g: 0.50087, b: 0.5721598, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5195,8 +5195,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 610596597}
   m_HandleRect: {fileID: 610596596}
   m_Direction: 0
-  m_Value: 0.0000012381053
-  m_Size: 0.33130252
+  m_Value: 0.0000019345425
+  m_Size: 0.33130285
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -19511,7 +19511,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d4df270ba0f99d549a9e71aa2f282710, type: 3}
+  m_audioClip: {fileID: 8300000, guid: aea283e475173354d8f33fa43211e249, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -21142,7 +21142,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 686428604}
   m_Direction: 0
   m_Value: 0
-  m_Size: 0.44724765
+  m_Size: 0.43279782
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -31280,8 +31280,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 182121380}
   m_HandleRect: {fileID: 182121379}
   m_Direction: 2
-  m_Value: 1.0002846
-  m_Size: 0.9977697
+  m_Value: 1.0002441
+  m_Size: 0.9977715
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -33012,7 +33012,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2116281355}
   m_HandleRect: {fileID: 2116281354}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 0.9999958
   m_Size: 0.9503744
   m_NumberOfSteps: 0
   m_OnValueChanged:

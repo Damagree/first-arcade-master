@@ -158,6 +158,9 @@ namespace Zetcil
 				string result = "";
 
 				string singleValue = SessionConfig.SetXMLValueSingle("SessionValue", aSessionValue);
+				if (singleValue == "0") singleValue = "True";
+				if (singleValue == "1") singleValue = "False";
+
 				result = header + singleValue + footer;
 				
 				string DirName = SessionConfig.GetDataSessionDirectory();

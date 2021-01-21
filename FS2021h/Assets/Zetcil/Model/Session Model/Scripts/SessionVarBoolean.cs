@@ -200,7 +200,13 @@ namespace Zetcil
                 xmldoc.LoadXml(tempxml);
 
                 xmlnodelist = xmldoc.GetElementsByTagName("SessionValue");
-                SessionValue.CurrentValue = bool.Parse(xmlnodelist.Item(0).InnerText.Trim());
+                string strBool = xmlnodelist.Item(0).InnerText.Trim();
+                if (strBool != "True" || strBool != "False")
+                {
+                    if (strBool == "1") strBool = "False";
+                    if (strBool == "0") strBool = "True";
+                }
+                SessionValue.CurrentValue = bool.Parse(strBool);
 
                 if (usingSessionEvent)
                 {
