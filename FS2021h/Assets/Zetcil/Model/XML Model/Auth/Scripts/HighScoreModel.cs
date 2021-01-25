@@ -80,7 +80,7 @@ namespace Zetcil
                 string[] HighScoreElement = HighScoreView[i].Split(';');
 
                 newscore.ID = HighScoreElement[0];
-                newscore.Name = HighScoreElement[2];
+                newscore.Name = HighScoreElement[3];
                 newscore.Score = HighScoreElement[4];
 
                 TargetHighScore.Add(newscore);
