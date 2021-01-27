@@ -12396,7 +12396,7 @@ PrefabInstance:
     - target: {fileID: 1802612549463689308, guid: 116d0754d293d354ebad0e6704156a5a,
         type: 3}
       propertyPath: LoadDelay
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2732633573026963918, guid: 116d0754d293d354ebad0e6704156a5a,
         type: 3}
@@ -15262,7 +15262,7 @@ PrefabInstance:
     - target: {fileID: 3485438493069409081, guid: 1055e65b75fde6f4ea526e5edc8e6892,
         type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3485438493069409092, guid: 1055e65b75fde6f4ea526e5edc8e6892,
         type: 3}
@@ -15762,7 +15762,7 @@ PrefabInstance:
     - target: {fileID: 3485438493069409081, guid: 1055e65b75fde6f4ea526e5edc8e6892,
         type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3485438493069409092, guid: 1055e65b75fde6f4ea526e5edc8e6892,
         type: 3}

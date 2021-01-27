@@ -236,11 +236,13 @@ namespace Zetcil
                         FirstCard = null;
                         SecondCard = null;
                         CompareStatus = false;
+                        CloseAllCard();
                     } else
                     {
                         FirstCard = null;
                         SecondCard = null;
                         CompareStatus = false;
+                        CloseAllCard();
                     }
                 }
                 else
@@ -255,6 +257,7 @@ namespace Zetcil
                         FirstCard = null;
                         SecondCard = null;
                         CompareStatus = false;
+                        CloseAllCard();
                     }
                     else
                     {
