@@ -121,7 +121,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 11
+  bundleVersion: 13
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -167,7 +167,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.FirstMedia.FirstSquad2020b
   buildNumber: {}
-  AndroidBundleVersionCode: 11
+  AndroidBundleVersionCode: 13
   AndroidMinSdkVersion: 21
   AndroidTargetSdkVersion: 30
   AndroidPreferredInstallLocation: 1
@@ -244,7 +244,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: F:/Jobs/Cube Studio/Keystores/FirstArcade.keystore
+  AndroidKeystoreName: D:/Jobs/Keystores/FirstArcade.keystore
   AndroidKeyaliasName: arcade1
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
